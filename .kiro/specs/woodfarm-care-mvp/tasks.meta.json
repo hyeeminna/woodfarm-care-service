@@ -1,0 +1,351 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 TypeScript 타입 정의 (`src/care/types/index.ts`)": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545467246
+      },
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789562763713
+      }
+    ],
+    "1.2 견적 단가 설정 객체 (`src/care/config/estimateConfig.ts`)": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545467747
+      },
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789562801020
+      }
+    ],
+    "2.1 견적 계산 함수 (`calculateEstimate.ts`)": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545467925
+      },
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789568024778
+      }
+    ],
+    "2.4 견적 금액 포맷 함수 (`formatPrice.ts`)": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545468122
+      },
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789568025659
+      }
+    ],
+    "2.5 유효성 검사 함수 (`validatePhone.ts`, `validateName.ts`, `validatePhoto.ts`)": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545468227
+      },
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789568026667
+      }
+    ],
+    "3.1 AppState reducer 구현": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545468358
+      },
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789568027608
+      }
+    ],
+    "4. 체크포인트 — 순수 함수 및 상태 관리 검증": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545468508
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789572604571
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789573304963
+      }
+    ],
+    "5.1 `LandingScreen.tsx`": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545468628
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789570425546
+      }
+    ],
+    "5.2 `StepNavigator.tsx`": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545468785
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789571423552
+      }
+    ],
+    "5.3 `Step1_SizeSelector.tsx`": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545468894
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789573328718
+      }
+    ],
+    "5.5 `Step2_FurnitureSelector.tsx`": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545469040
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789573333292
+      }
+    ],
+    "5.7 `Step3_ServiceSelector.tsx`": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545469176
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789573337090
+      }
+    ],
+    "5.8 `Step4_PhotoUploader.tsx`": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545469326
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789573341197
+      }
+    ],
+    "5.10 `EstimateFlow.tsx` — STEP1~4 컨테이너": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545469486
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789573353645
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789573956902
+      }
+    ],
+    "5.11 `LoadingScreen.tsx`": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545469599
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789573968401
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789574783369
+      }
+    ],
+    "5.12 `ResultScreen.tsx`": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545469794
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789573969202
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789574784144
+      }
+    ],
+    "5.13 `RequestFormScreen.tsx`": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545469990
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789573970000
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789574784916
+      }
+    ],
+    "5.14 `CompleteScreen.tsx`": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545470129
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789573970781
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789574785695
+      }
+    ],
+    "5.15 `AppShell` 최종 연결 (`src/care/index.tsx`)": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545470283
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789573972060
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789574786643
+      }
+    ],
+    "6. 체크포인트 — 화면 컴포넌트 통합 검증": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545470399
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789574799575
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789578957842
+      }
+    ],
+    "7.1 기본 레이아웃 및 반응형": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545470503
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789578971404
+      }
+    ],
+    "7.2 포인트 컬러 및 컴포넌트 스타일": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545470641
+      },
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789578972216
+      }
+    ],
+    "8.1 전체 테스트 실행": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545470759
+      }
+    ],
+    "8.3 TypeScript 빌드 검증": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789545470879
+      }
+    ],
+    "1. 프로젝트 기반 설정 — `src/care/` 섹션 초기화": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789562801194
+      }
+    ],
+    "2. 순수 함수 라이브러리 (`src/care/lib/`)": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789568026792
+      }
+    ],
+    "3. 상태 관리 — `useAppReducer` (`src/care/hooks/useAppReducer.ts`)": [
+      {
+        "executionId": "dd0a855b-d05f-49c4-888c-3ea0c49f9b60",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789568027711
+      }
+    ],
+    "5. 화면 컴포넌트 구현": [
+      {
+        "executionId": "a93c5f8a-ead0-4143-8fbd-a69d525a49f9",
+        "chatSessionId": "sess_4fdf7c2e-6f6f-4364-ae34-9ca579f8cf80",
+        "timestamp": 1789574786725
+      }
+    ]
+  }
+}
